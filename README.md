@@ -46,7 +46,7 @@ Pop
  * Scaleable
 
 ## Installation
-To install manually, download and open the latest .rmskin file avalible in [releases](https://github.com/underscore7/test/releases)
+To install manually, download and open the latest .rmskin file avalible in [releases](https://github.com/underscore7/AsciiClock/releases)
 
 ## Configuration
  * Edit ```AsciiClock/@Resources/Variables.inc``` for config options
