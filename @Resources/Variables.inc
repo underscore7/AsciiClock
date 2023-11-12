@@ -4,7 +4,6 @@
 
 AsciiFont=Fade3D
 FontSize=14
+FontWeight=700
 FontColor=255,255,255
 TimeFormat="%H%M"
-
-;only HH:MM formats are supported

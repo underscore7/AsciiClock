@@ -1,4 +1,4 @@
-![AsciiClockPreview](https://i.imgur.com/VIIu5M6.png "AsciiClockPreview")
+![AsciiClockPreview](https://i.imgur.com/bsODC18.jpg "AsciiClockPreview")
 
 <span style="font-family: 'Jetbrains Mono';">
  <pre>
@@ -42,8 +42,8 @@ Pop
 
 ## Features
  * 6 Custom Ascii art fonts
- * Supports HH:MM time format
- * Scaleable
+ * Supports HH:MM and H:MM time formats
+ * Customizable font width, scale, and color
 
 ## Installation
 To install manually, download and open the latest .rmskin file avalible in [releases](https://github.com/underscore7/AsciiClock/releases)
@@ -53,5 +53,5 @@ To install manually, download and open the latest .rmskin file avalible in [rele
  
 ## Credits
  * JetBrains Mono Font - [Jetbrains](https://www.jetbrains.com/lp/mono/)
- * Wallpaper in Preview Image - [Tuesday Temptation](https://www.pexels.com/photo/purple-and-blue-light-digital-wallpaper-3780104/)
+ * Wallpaper in Preview Image - [Adrien Olichon](https://www.pexels.com/photo/black-sand-dunes-2387793/)
 
